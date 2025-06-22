@@ -4,5 +4,5 @@ Welcome to the official website of **Liberty Christian Centre**, a Spirit-led mi
 
 Explore our services, download sermons, view upcoming events, and stay connected with our ministries and members.
 
-👉 Visit: [Liberty Christian Centre Website](LCC.html)
+Visit: [Liberty Christian Centre Website](LCC.html)
 
